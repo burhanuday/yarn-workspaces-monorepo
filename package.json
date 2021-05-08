@@ -1,0 +1,7 @@
+{
+  "name": "workspace-boilerplate",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
